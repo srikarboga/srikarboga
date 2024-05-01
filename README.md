@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm currently at Rutgers University majoring in Computer Science.
 <!--
 **srikarboga/srikarboga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
