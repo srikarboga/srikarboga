@@ -2,7 +2,7 @@
 
 I'm currently enrolled at Rutgers University pursuing a Bachelor's degree in Computer Science.
 
-Contact:
+Contact me at 
 `boggavarapu.srikar@gmail.com`
 <!--
 **srikarboga/srikarboga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
