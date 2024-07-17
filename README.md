@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm currently at Rutgers University majoring in Computer Science.
+I'm currently enrolled at Rutgers University pursuing a Bachelor's degree in Computer Science.
+
+Contact:
+`boggavarapu.srikar@gmail.com`
 <!--
 **srikarboga/srikarboga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
